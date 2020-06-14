@@ -1,2 +1,2 @@
 # Mandelbrot
- Program that visualies mandelbrot set
+ Program that visualizes the Mandelbrot set
